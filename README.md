@@ -12,7 +12,7 @@ Three production-ready Streamlit applications demonstrating authentication syste
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/streamlit-suite.git
+git clone https://github.com/riffarhan/Streamlit-Application-Suite.git
 cd streamlit-suite
 
 # Install dependencies
